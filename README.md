@@ -9,3 +9,6 @@ O valor de cada peça tambem irá compor a OS.
 O cliente autoriza a execução dos serviços.
 uma OS pode ser composta por vários serviços e um mesmo serviço pode setar contido em mais de uma OS.
 Uma Os pode ter varios tipos de Peça e uma peça pode estar presente em mais de um pedido.
+
+![image](https://github.com/user-attachments/assets/06d653aa-4972-4ea6-9fb8-dcded110f6f0)
+
